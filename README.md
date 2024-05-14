@@ -2,8 +2,7 @@
 
 ## Executive Summary ##
 
-This repository contains supporting information for the manuscript titled "Evaluation of CORDEX ERA5-forced ‘NARCliM2.0’ regional climate models over Australia using the Weather Research and Forecasting (WRF) model version 4.1.2
-", by Giovanni Di Virgilio, Fei Ji, Eugene Tam, Jason Evans, Jatin Kala, Julia Andrys, Christopher Thomas, Dipayan Choudhury, Carlos Rocha, Yue Li, and Matthew Riley, submitted to Geoscientific Model Development on 2024-04-15.
+This repository contains supporting information for the manuscript titled "Evaluation of CORDEX ERA5-forced 'NARCliM2.0' regional climate models over Australia using the Weather Research and Forecasting (WRF) model version 4.1.2", by Giovanni Di Virgilio, Fei Ji, Eugene Tam, Jason Evans, Jatin Kala, Julia Andrys, Christopher Thomas, Dipayan Choudhury, Carlos Rocha, Yue Li, and Matthew Riley, submitted to Geoscientific Model Development on 2024-04-15.
 
 The manuscript is available with the DOI [10.5194/gmd-2024-41-CEC1](https://dx.doi.org/10.5194/gmd-2024-41-CEC1)
 
