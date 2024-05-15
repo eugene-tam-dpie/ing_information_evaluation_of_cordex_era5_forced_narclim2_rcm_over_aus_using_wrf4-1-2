@@ -57,8 +57,8 @@
     "license": "cc-by",
     "references":[
         "Di Virgilio Giovanni, F. Ji, E. Tam, N. Nishant, J. P. Evans, C. Thomas, M. Riley, K. Beyer, M. Grose, S Narsey, F Delage. (2022). Selecting CMIP6 GCMs for CORDEX dynamical downscaling: model performance, independence, and climate change signals, Earth's Future, https://doi.org/10.1029/2021EF002625",
-        "Di Virgilio Giovanni, F. Ji, E. Tam, J. P. Evans, J. Kala, J. Andrys C. Thomas, D. Choudhury, C. Rocha, Y. Li, M. Riley (Under review) Evaluation of CORDEX ERA5-forced ‘NARCliM2.0’ regional climate models over Australia using the Weather Research and Forecasting (WRF) model version 4.1.2, Geoscientific Model Development, https://dx.doi.org/10.5194/gmd-2024-41",
-        "Di Virgilio Giovanni, J. P. Evans, F. Ji, E. Tam, J. Kala, J. Andrys, C. Thomas, D. Choudhury, C. Rocha, S. White, Y. Li, M. El Rafei, R. Goyal and M. Riley (Under review) Design, evaluation and future projections of the NARCliM2.0 CORDEX-CMIP6 Australasia regional climate ensemble, Geoscientific Model Development"
+        "Di Virgilio Giovanni, F. Ji, E. Tam, J. P. Evans, J. Kala, J. Andrys C. Thomas, D. Choudhury, C. Rocha, Y. Li, M. Riley (Under review) Evaluation of CORDEX ERA5-forced 'NARCliM2.0' regional climate models over Australia using the Weather Research and Forecasting (WRF) model version 4.1.2, Geoscientific Model Development, https://dx.doi.org/10.5194/gmd-2024-41",
+        "Di Virgilio Giovanni, J. P. Evans, F. Ji, E. Tam, J. Kala, J. Andrys, C. Thomas, D. Choudhury, C. Rocha, S. White, Y. Li, M. El Rafei, R. Goyal and M. Riley (Under review) Design, evaluation and future projections of the NARCliM2.0 CORDEX-CMIP6 Australasia regional climate ensemble, Geoscientific Model Development, https://doi.org/10.5194/gmd-2024-87"
     ],
     "journal_title":"Geoscientific Model Development"
 }
